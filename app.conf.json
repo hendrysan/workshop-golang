@@ -1,0 +1,24 @@
+{
+    "Name": "Workshop 1",
+    "Version": "1.0.0",
+    "Description": "Workshop 1",
+    "Author": "Your Name",
+    "License": "MIT",
+    "Copyright": "Copyright 2025",
+    "Contact": {
+        "Name": "Your Name",
+        "Email": "your.email@example.com",
+        "URL": "https://yourwebsite.com"
+    },
+    "Database": {
+        "Host": "localhost",
+        "Port": 3306,
+        "User": "root",
+        "Password": "root",
+        "Name": "go_basic"
+    },
+    "JWT": {
+        "Secret": "super-secret-key",
+        "Issuer": "workshop1"
+    }
+}
