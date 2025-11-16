@@ -1,0 +1,14 @@
+{
+  "workspace": {
+    "id": "c44fd848-808f-4d6d-8121-06b6962c0bd8"
+  },
+  "entities": {
+    "collections": [
+      "..\\postman\\collections\\golang.postman_collection.json"
+    ],
+    "environments": [],
+    "specs": [],
+    "flows": [],
+    "globals": []
+  }
+}
